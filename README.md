@@ -136,8 +136,10 @@
 
 ---
 
-## 💬 Random Quote Generator
+## ✨ Daily Inspiration & Words of Wisdom
 
 <div align="center">
 
-![](
+<img src="https://readme-quotes.vercel.app/api?type=horizontal&theme=dark" alt="Daily Quote" />
+
+</div>
