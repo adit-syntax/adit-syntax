@@ -7,6 +7,7 @@
 ### 💻 *Full-Stack & AI Developer | Competitive Programmer*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=adit-syntax&label=PROFILE+VIEWS&color=6c5ce7&style=for-the-badge)
+[![Codolio Profile](https://img.shields.io/badge/Codolio-aditsyntax-6C5CE7?style=for-the-badge&logo=codolio&logoColor=white)](https://codolio.com/profile/aditsyntax)
 
 </div>
 
@@ -22,14 +23,15 @@
 
 ---
 
-## 🚀 Competitive Programming & Coding Profiles
+## 🚀 Competitive Programming & Codolio Profile
 
-- ⚔️ **Knight on LeetCode** (Rating: 1850+, Top 7.63%)
-- 💚 **Pupil on Codeforces** (Peak Rating: 1245)
-- ⭐ **2 Star on CodeChef** (Top Rating: 1551)
-- 🧠 **700+ Problems Solved** | **100+ Contests Participated**
+- 🌐 **Codolio Profile:** [codolio.com/profile/aditsyntax](https://codolio.com/profile/aditsyntax)
+- ⚔️ **LeetCode:** Knight Badge (Rating: 1850+, Top 7.63%)
+- 💚 **Codeforces:** Pupil (Max Rating: 1245)
+- ⭐ **CodeChef:** 2 Star (Max Rating: 1551)
+- 🧠 **Overall Stats:** 700+ Problems Solved | 100+ Contests
 - 🎯 **GATE 2026 CS:** AIR 7514 (Score 500)
-- 💡 **Strong in:** Data Structures & Algorithms, Dynamic Programming, Graphs, C++
+- 💡 **Core Strengths:** Data Structures & Algorithms, Dynamic Programming, Graph Algorithms, C++
 
 <br/>
 
@@ -38,8 +40,8 @@
 <table>
   <tr>
     <td width="33%" align="left" valign="top">
-      <h3 align="center">🟡 <a href="https://leetcode.com/aditsyntax">aditsyntax</a></h3>
-      <p align="center"><b style="color:#FFA116;">Knight (top 7.63%)</b></p>
+      <h3 align="center">🟡 <a href="https://leetcode.com/aditsyntax">LeetCode</a></h3>
+      <p align="center"><b style="color:#FFA116;">Knight (Top 7.63%)</b></p>
       <hr/>
       <p>🎯 <b>Contest Rating:</b> 1850+</p>
       <p>🏆 <b>Global Rank:</b> Top 7.63%</p>
@@ -47,18 +49,23 @@
       <p>⚔️ <b>Badge:</b> Knight</p>
       <p>🏁 <b>Contests:</b> 100+</p>
     </td>
-    <td width="34%" align="center" valign="top">
-      <a href="https://codeforces.com/profile/aditsyntax">
-        <img src="https://codeforces-readme-stats.vercel.app/api/card?username=aditsyntax&theme=dark" alt="Codeforces Stats" />
-      </a>
+    <td width="34%" align="left" valign="top">
+      <h3 align="center">💙 <a href="https://codeforces.com/profile/aditsyntax">Codeforces</a></h3>
+      <p align="center"><b style="color:#55FF55;">Pupil (Max: 1245)</b></p>
+      <hr/>
+      <p>🎯 <b>Contest Rating:</b> 1245</p>
+      <p>🏆 <b>Max Rating:</b> 1245</p>
+      <p>🏁 <b>Rated Contests:</b> 21</p>
+      <p>🧩 <b>Problems Solved:</b> 167</p>
+      <p>📝 <b>Submissions:</b> 350</p>
     </td>
     <td width="33%" align="left" valign="top">
-      <h3 align="center">🟤 <a href="https://www.codechef.com/users/aditsyntax">aditsyntax</a></h3>
-      <p align="center"><b style="color:#FFBF00;">2 Star (max: 2 Star)</b></p>
+      <h3 align="center">🟤 <a href="https://www.codechef.com/users/aditsyntax">CodeChef</a></h3>
+      <p align="center"><b style="color:#FFBF00;">2 Star (Max: 1551)</b></p>
       <hr/>
       <p>🎯 <b>Contest Rating:</b> 1551</p>
       <p>🏆 <b>Max Rating:</b> 1551</p>
-      <p>⭐ <b>Global Stars:</b> 2 Star</p>
+      <p>⭐ <b>Stars:</b> 2 Star</p>
       <p>🧩 <b>Rank Status:</b> Active</p>
       <p>🏁 <b>Contests:</b> Rated</p>
     </td>
@@ -67,8 +74,8 @@
 
 <br/>
 
+[![Codolio](https://img.shields.io/badge/Codolio%20Portfolio-aditsyntax-6C5CE7?style=for-the-badge)](https://codolio.com/profile/aditsyntax)
 [![LeetCode Rating](https://img.shields.io/badge/LeetCode-1850%2B%20(Knight)-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/aditsyntax)
-[![LeetCode Solved](https://img.shields.io/badge/LeetCode%20Solved-500%2B-00B8A3?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/aditsyntax)
 [![Codeforces](https://img.shields.io/badge/Codeforces-Pupil%20(1245)-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/aditsyntax)
 [![CodeChef](https://img.shields.io/badge/CodeChef-2%20Star%20(1551)-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/aditsyntax)
 
@@ -155,6 +162,7 @@
 
 <div align="center">
 
+[![Codolio](https://img.shields.io/badge/Codolio-6C5CE7?style=for-the-badge&logo=codeforces&logoColor=white)](https://codolio.com/profile/aditsyntax)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditsyntax)
 [![X/Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/aditsyntax)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/aditsyntax)
