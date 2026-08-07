@@ -35,9 +35,42 @@
 
 <div align="center">
 
-<a href="https://leetcode.com/aditsyntax"><img src="https://leetcode-stats.vercel.app/api?username=aditsyntax&theme=dark" height="200" alt="LeetCode Stats" /></a>
-<a href="https://codeforces.com/profile/aditsyntax"><img src="https://codeforces-readme-stats.vercel.app/api/card?username=aditsyntax&theme=dark" height="200" alt="Codeforces Stats" /></a>
-<a href="https://www.codechef.com/users/aditsyntax"><img src="https://github-readme-codechef.vercel.app/api?username=aditsyntax&theme=dark" height="200" alt="CodeChef Stats" /></a>
+<table>
+  <tr>
+    <td width="33%" align="left" valign="top">
+      <h3 align="center">🟡 <a href="https://leetcode.com/aditsyntax">aditsyntax</a></h3>
+      <p align="center"><b style="color:#FFA116;">Knight (top 7.63%)</b></p>
+      <hr/>
+      <p>🎯 <b>Contest Rating:</b> 1850+</p>
+      <p>🏆 <b>Global Rank:</b> Top 7.63%</p>
+      <p>🧩 <b>Problems Solved:</b> 500+</p>
+      <p>⚔️ <b>Badge:</b> Knight</p>
+      <p>🏁 <b>Contests:</b> 100+</p>
+    </td>
+    <td width="34%" align="center" valign="top">
+      <a href="https://codeforces.com/profile/aditsyntax">
+        <img src="https://codeforces-readme-stats.vercel.app/api/card?username=aditsyntax&theme=dark" alt="Codeforces Stats" />
+      </a>
+    </td>
+    <td width="33%" align="left" valign="top">
+      <h3 align="center">🟤 <a href="https://www.codechef.com/users/aditsyntax">aditsyntax</a></h3>
+      <p align="center"><b style="color:#FFBF00;">2 Star (max: 2 Star)</b></p>
+      <hr/>
+      <p>🎯 <b>Contest Rating:</b> 1551</p>
+      <p>🏆 <b>Max Rating:</b> 1551</p>
+      <p>⭐ <b>Global Stars:</b> 2 Star</p>
+      <p>🧩 <b>Rank Status:</b> Active</p>
+      <p>🏁 <b>Contests:</b> Rated</p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+[![LeetCode Rating](https://img.shields.io/badge/LeetCode-1850%2B%20(Knight)-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/aditsyntax)
+[![LeetCode Solved](https://img.shields.io/badge/LeetCode%20Solved-500%2B-00B8A3?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/aditsyntax)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Pupil%20(1245)-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/aditsyntax)
+[![CodeChef](https://img.shields.io/badge/CodeChef-2%20Star%20(1551)-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/aditsyntax)
 
 </div>
 
