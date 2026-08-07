@@ -109,8 +109,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=adit-syntax&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adit-syntax&layout=compact&theme=dark&hide_border=true&hide=html,css" width="48%" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=adit-syntax&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=adit-syntax&layout=compact&theme=dark&hide_border=true&hide=html,css" width="48%" />
 
 <br/>
 
