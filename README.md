@@ -36,10 +36,11 @@
 
 <br/><br/>
 
-<!-- Dynamic API Badges (Fetch live values from platform APIs) -->
+<!-- Dynamic Platform Badges (No static hardcoded numbers) -->
+[![Codolio Portfolio](https://img.shields.io/badge/Codolio-aditsyntax%20Portfolio-6C5CE7?style=for-the-badge&logo=codeforces&logoColor=white)](https://codolio.com/profile/aditsyntax)
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-aditsyntax-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/aditsyntax)
 [![Codeforces Live Rating](https://img.shields.io/badge/dynamic/json?color=1F8ACB&label=Codeforces%20Rating&query=$.result[0].rating&url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3Daditsyntax&style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/aditsyntax)
-[![Codeforces Live Rank](https://img.shields.io/badge/dynamic/json?color=1F8ACB&label=Codeforces%20Rank&query=$.result[0].rank&url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3Daditsyntax&style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/aditsyntax)
-[![Codolio Live Profile](https://img.shields.io/badge/Codolio-aditsyntax%20(All%20Stats)-6C5CE7?style=for-the-badge&logo=codeforces&logoColor=white)](https://codolio.com/profile/aditsyntax)
+[![CodeChef Profile](https://img.shields.io/badge/CodeChef-aditsyntax-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/aditsyntax)
 
 </div>
 
