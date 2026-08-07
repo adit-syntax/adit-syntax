@@ -23,15 +23,15 @@
 
 ---
 
-## 🚀 Live Competitive Programming & Codolio Stats
+## 🚀 Competitive Programming & Live Stats Cards
 
 <div align="center">
 
 <a href="https://leetcode.com/aditsyntax">
-  <img src="https://github-readme-leetcode-stats.vercel.app/api/card?username=aditsyntax&theme=dark" height="200" alt="LeetCode Dynamic Stats" />
+  <img src="https://leetcard.jacoblin.cool/aditsyntax?theme=dark&font=Baloo%202&ext=contest" height="200" alt="LeetCode JacobLin Stats Card" />
 </a>
 <a href="https://codeforces.com/profile/aditsyntax">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=aditsyntax&theme=dark" height="200" alt="Codeforces Dynamic Stats" />
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=aditsyntax&theme=dark" height="200" alt="Codeforces Stats Card" />
 </a>
 
 <br/><br/>
@@ -73,73 +73,4 @@
 ### 🔧 Developer Tools & Automation
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
----
-
-## 📁 Projects Highlights
-
-### 🤖 AI, Agentic Platforms & NLP
-- **[VyuhaAI](https://github.com/adit-syntax/VyuhaAI):** Multi-Agent AI Platform built with React, Node.js, LangGraph, RAG, and Docker on AWS. Coordinating 5+ specialized agents with vector search grounding.
-- **[InterQ](https://github.com/adit-syntax/InterQ):** AI-driven interview platform using Google Gemini to analyze job descriptions & resumes, generating study roadmaps and ATS resume exports.
-- **[Swar-A / Voice Email Assistant](https://github.com/adit-syntax/Swar-A_Voice_Based_Email_and_Messaging_Assistant):** Voice-enabled messaging assistant for hands-free email management with biometric auth.
-- **[AI Document Retrieval System](https://github.com/adit-syntax/AI-Powered-Document-Retrieval-System-with-Docling-and-Granite):** RAG platform leveraging IBM Granite & Docling for document retrieval.
-
-### 🌐 Full-Stack Web Applications
-- **[Pixora](https://github.com/adit-syntax/Pixora):** Full-stack social platform featuring Socket.io real-time 1-on-1 messaging, stories, and push notifications.
-- **[Restaurant Web](https://github.com/adit-syntax/restaurant-web):** Responsive online dining web platform with digital reservation workflows.
-- **[EcoTwin](https://github.com/adit-syntax/EcoTwin):** Environmental tracking and climate risk assessment application.
-
-### 🧩 Algorithmic Projects & Interactive Games
-- **[Space Invaders Game](https://github.com/adit-syntax/space-invaders-game):** Classic arcade game reconstructed in C++/JS.
-- **[N-Queen Explorer](https://github.com/adit-syntax/N-Queen-Explorer):** Interactive visualization tool for backtrack solving the N-Queens problem.
-- **[Sudoku Solver](https://github.com/adit-syntax/sudoku) & [Rat in a Maze](https://github.com/adit-syntax/ratmaze):** Backtracking algorithm visualizers.
-- **[Tic-Tac-Toe](https://github.com/adit-syntax/tic-tac-toe):** Browser-based turn game.
-
-### ⚡ Automation & DevOps Tools
-- **[n8n Workflows](https://github.com/adit-syntax/n8n):** Automated API integrations and workflow automation triggers.
-- **[Rename All](https://github.com/adit-syntax/rename_all):** Batch file manipulation and batch renaming script utility.
-
----
-
-## 📈 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=adit-syntax&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adit-syntax&layout=compact&theme=dark&hide_border=true&hide=html,css" width="48%" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=adit-syntax&theme=dark&hide_border=true" width="97%" />
-
-</div>
-
----
-
-## 📬 Connect With Me
-
-<div align="center">
-
-[![Codolio](https://img.shields.io/badge/Codolio-6C5CE7?style=for-the-badge&logo=codeforces&logoColor=white)](https://codolio.com/profile/aditsyntax)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditsyntax)
-[![X/Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/aditsyntax)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/aditsyntax)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/aditsyntax)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/aditsyntax)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aditsyntax@gmail.com)
-
-</div>
-
----
-
-## 💬 Random Quote Generator
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-</div>
+![Postman](
