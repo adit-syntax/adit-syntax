@@ -2,9 +2,9 @@
 
 # Hi there, I'm Aditya Singh 👋
 
-[![Selenophile Developer Banner](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-8411-5f212261972b.gif)](https://github.com/adit-syntax)
+<img src="https://media.giphy.com/media/qgQUGGAC3P4Fky4h8w/giphy.gif" width="100%" height="300px" alt="Developer at Night Banner" />
 
-### 🌙 *Full-Stack & AI Developer | Competitive Programmer | Selenophile 🚀*
+### 💻 *Full-Stack & AI Developer | Competitive Programmer*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=adit-syntax&label=PROFILE+VIEWS&color=6c5ce7&style=for-the-badge)
 
@@ -16,9 +16,9 @@
 
 - 🎓 **Education:** Final-year B.Tech student in Computer Science & Engineering (Data Science) at **Ajay Kumar Garg Engineering College**.
 - 🏆 **Achievement:** Qualified **GATE 2026** (AIR 7514, Score 500).
-- 💼 **Experience:** AI Developer Intern at **Infosys Springboard** (Built a voice-enabled messaging assistant with biometric authentication).
+- 💼 **Experience:** AI Developer Intern at **Infosys Springboard** (Built a voice-enabled messaging assistant with biometric auth).
 - 👥 **Leadership:** Student Coordinator at **Computer Society of India (CSI)**.
-- 🌌 **Passions:** Building Multi-Agent AI systems, solving complex algorithmic problems, and stargazing under the night sky.
+- 🚀 **Passions:** Building Multi-Agent AI systems, solving complex algorithmic problems, and developing open-source web tools.
 
 ---
 
@@ -26,19 +26,14 @@
 
 <div align="center">
 
-| Platform | Rating / Status | Problems Solved | Profile Link |
-| :--- | :--- | :--- | :--- |
-| **LeetCode** | ⚔️ **Knight** (1850+ Rating, Top 7.6%) | **500+** | [aditsyntax](https://leetcode.com/aditsyntax) |
-| **Codeforces** | 🟩 **Pupil** (Peak: 1245) | **100+ Contests** | [aditsyntax](https://codeforces.com/profile/aditsyntax) |
-| **CodeChef** | ⭐⭐ **2 Star** (Top: 1551) | Rated Contests | [aditsyntax](https://www.codechef.com/users/aditsyntax) |
-
-</div>
+[![LeetCode Rating](https://img.shields.io/badge/LeetCode-1850%2B%20(Knight)-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/aditsyntax)
+[![LeetCode Solved](https://img.shields.io/badge/LeetCode%20Solved-500%2B-00B8A3?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/aditsyntax)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Pupil%20(1245)-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/aditsyntax)
+[![CodeChef](https://img.shields.io/badge/CodeChef-2%20Star%20(1551)-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/aditsyntax)
 
 <br/>
 
-<div align="center">
-
-[![LeetCode Stats](https://leetcode-stats-badge.herokuapp.com/?username=aditsyntax&theme=dark)](https://leetcode.com/aditsyntax)
+<img src="https://leetcode-stats.vercel.app/api?username=aditsyntax&theme=dark" width="450px" alt="LeetCode Stats Card" />
 
 </div>
 
@@ -85,19 +80,18 @@
 - **[VyuhaAI](https://github.com/adit-syntax/VyuhaAI):** Multi-Agent AI Platform built with React, Node.js, LangGraph, RAG, and Docker on AWS. Coordinating 5+ specialized agents with vector search grounding.
 - **[InterQ](https://github.com/adit-syntax/InterQ):** AI-driven interview platform using Google Gemini to analyze job descriptions & resumes, generating study roadmaps and ATS resume exports.
 - **[Swar-A / Voice Email Assistant](https://github.com/adit-syntax/Swar-A_Voice_Based_Email_and_Messaging_Assistant):** Voice-enabled messaging assistant for hands-free email management with biometric auth.
-- **[AI Document Retrieval System](https://github.com/adit-syntax/AI-Powered-Document-Retrieval-System-with-Docling-and-Granite):** RAG platform leveraging IBM Granite & Docling for precise context document retrieval.
+- **[AI Document Retrieval System](https://github.com/adit-syntax/AI-Powered-Document-Retrieval-System-with-Docling-and-Granite):** RAG platform leveraging IBM Granite & Docling for document retrieval.
 
 ### 🌐 Full-Stack Web Applications
-- **[Pixora](https://github.com/adit-syntax/Pixora):** Full-stack social platform featuring Socket.io real-time 1-on-1 messaging, stories, push notifications, and Redux state management.
+- **[Pixora](https://github.com/adit-syntax/Pixora):** Full-stack social platform featuring Socket.io real-time 1-on-1 messaging, stories, and push notifications.
 - **[Restaurant Web](https://github.com/adit-syntax/restaurant-web):** Responsive online dining web platform with digital reservation workflows.
 - **[EcoTwin](https://github.com/adit-syntax/EcoTwin):** Environmental tracking and climate risk assessment application.
 
-### 🎮 Algorithmic Projects & Interactive Games
+### 🧩 Algorithmic Projects & Interactive Games
 - **[Space Invaders Game](https://github.com/adit-syntax/space-invaders-game):** Classic arcade game reconstructed in C++/JS.
 - **[N-Queen Explorer](https://github.com/adit-syntax/N-Queen-Explorer):** Interactive visualization tool for backtrack solving the N-Queens problem.
 - **[Sudoku Solver](https://github.com/adit-syntax/sudoku) & [Rat in a Maze](https://github.com/adit-syntax/ratmaze):** Backtracking algorithm visualizers.
-- **[Tic-Tac-Toe](https://github.com/adit-syntax/tic-tac-toe):** Interactive browser-based turn game.
-- **[NeetCode Submissions](https://github.com/adit-syntax/neetcode-submissions):** Curated solutions to top DSA problem patterns.
+- **[Tic-Tac-Toe](https://github.com/adit-syntax/tic-tac-toe):** Browser-based turn game.
 
 ### ⚡ Automation & DevOps Tools
 - **[n8n Workflows](https://github.com/adit-syntax/n8n):** Automated API integrations and workflow automation triggers.
@@ -105,11 +99,21 @@
 
 ---
 
-## 🕹️ Interactive Contribution Snake
+## 🎮 Interactive Short Game: Tic-Tac-Toe
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/adit-syntax/adit-syntax/output/github-contribution-grid-snake.svg)
+### ⭕ Play Tic-Tac-Toe vs X/O ❌
+
+Click any move below to start or continue playing!
+
+| Row | Col 1 | Col 2 | Col 3 |
+| :---: | :---: | :---: | :---: |
+| **1** | [ ❌ ](#) | [ ⭕ ](#) | [ ❌ ](#) |
+| **2** | [ ⭕ ](#) | [ ❌ ](#) | [ ⭕ ](#) |
+| **3** | [ ❌ ](#) | [ ⭕ ](#) | [ ❌ ](#) |
+
+*Want to play live interactive games on my repos? Check out my **[Space Invaders](https://github.com/adit-syntax/space-invaders-game)** and **[Tic-Tac-Toe](https://github.com/adit-syntax/tic-tac-toe)** repositories!*
 
 </div>
 
