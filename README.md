@@ -2,7 +2,7 @@
 
 # Hi there, I'm Aditya Singh 👋
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub-Bio/raw/main/gifs/Aesthetic.gif" width="100%" height="320px" alt="Developer at Night Banner" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-8411-5f212261972b.gif" width="100%" height="320px" alt="Developer Banner" />
 
 ### 💻 *Full-Stack & AI Developer | Competitive Programmer*
 
