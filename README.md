@@ -23,23 +23,23 @@
 
 ---
 
-## 🚀 Competitive Programming & Codolio Stats
+## 🚀 Live Competitive Programming & Codolio Stats
 
 <div align="center">
 
-<a href="https://codeforces.com/profile/aditsyntax">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=aditsyntax&theme=dark" height="200" alt="Codeforces Stats" />
+<a href="https://leetcode.com/aditsyntax">
+  <img src="https://github-readme-leetcode-stats.vercel.app/api/card?username=aditsyntax&theme=dark" height="200" alt="LeetCode Dynamic Stats" />
 </a>
-<a href="https://codolio.com/profile/aditsyntax">
-  <img src="https://dsastats.vercel.app/api/codolio/aditsyntax" height="200" alt="Codolio All-Platform Stats" />
+<a href="https://codeforces.com/profile/aditsyntax">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=aditsyntax&theme=dark" height="200" alt="Codeforces Dynamic Stats" />
 </a>
 
 <br/><br/>
 
 [![Codolio Portfolio](https://img.shields.io/badge/Codolio-Full%20Coding%20Profile-6C5CE7?style=for-the-badge&logo=codeforces&logoColor=white)](https://codolio.com/profile/aditsyntax)
-[![LeetCode Rating](https://img.shields.io/badge/LeetCode-1850%2B%20(Knight)-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/aditsyntax)
-[![Codeforces](https://img.shields.io/badge/Codeforces-Pupil%20(1245)-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/aditsyntax)
-[![CodeChef](https://img.shields.io/badge/CodeChef-2%20Star%20(1551)-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/aditsyntax)
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-aditsyntax-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/aditsyntax)
+[![Codeforces Profile](https://img.shields.io/badge/Codeforces-aditsyntax-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/aditsyntax)
+[![CodeChef Profile](https://img.shields.io/badge/CodeChef-aditsyntax-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/aditsyntax)
 
 </div>
 
