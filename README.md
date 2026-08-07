@@ -31,9 +31,13 @@
 - 🎯 **GATE 2026 CS:** AIR 7514 (Score 500)
 - 💡 **Strong in:** Data Structures & Algorithms, Dynamic Programming, Graphs, C++
 
+<br/>
+
 <div align="center">
 
-<a href="https://codeforces.com/profile/aditsyntax"><img src="https://codeforces-readme-stats.vercel.app/api/card?username=aditsyntax&theme=dark" alt="Codeforces Stats" /></a>
+<a href="https://leetcode.com/aditsyntax"><img src="https://leetcode-stats.vercel.app/api?username=aditsyntax&theme=dark" height="200" alt="LeetCode Stats" /></a>
+<a href="https://codeforces.com/profile/aditsyntax"><img src="https://codeforces-readme-stats.vercel.app/api/card?username=aditsyntax&theme=dark" height="200" alt="Codeforces Stats" /></a>
+<a href="https://www.codechef.com/users/aditsyntax"><img src="https://github-readme-codechef.vercel.app/api?username=aditsyntax&theme=dark" height="200" alt="CodeChef Stats" /></a>
 
 </div>
 
