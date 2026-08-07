@@ -23,23 +23,23 @@
 
 ---
 
-## 🚀 Competitive Programming & Live Stats Cards
+## 🚀 Live Dynamic Competitive Programming Stats
 
 <div align="center">
 
 <a href="https://leetcode.com/aditsyntax">
-  <img src="https://leetcard.jacoblin.cool/aditsyntax?theme=dark&font=Baloo%202&ext=contest" height="200" alt="LeetCode JacobLin Stats Card" />
+  <img src="https://leetcard.jacoblin.cool/aditsyntax?theme=dark&font=Baloo%202&ext=contest" height="200" alt="LeetCode Live Dynamic Stats Card" />
 </a>
 <a href="https://codeforces.com/profile/aditsyntax">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=aditsyntax&theme=dark" height="200" alt="Codeforces Stats Card" />
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=aditsyntax&theme=dark" height="200" alt="Codeforces Live Dynamic Stats Card" />
 </a>
 
 <br/><br/>
 
-[![Codolio Portfolio](https://img.shields.io/badge/Codolio-Full%20Portfolio-6C5CE7?style=for-the-badge&logo=codeforces&logoColor=white)](https://codolio.com/profile/aditsyntax)
-[![LeetCode Rating](https://img.shields.io/badge/LeetCode-1850%2B%20(Knight)-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/aditsyntax)
-[![Codeforces Rating](https://img.shields.io/badge/Codeforces-Pupil%20(1245)-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/aditsyntax)
-[![CodeChef Rating](https://img.shields.io/badge/CodeChef-2%20Star%20(1551)-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/aditsyntax)
+<!-- Dynamic API Badges (Fetch live values from platform APIs) -->
+[![Codeforces Live Rating](https://img.shields.io/badge/dynamic/json?color=1F8ACB&label=Codeforces%20Rating&query=$.result[0].rating&url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3Daditsyntax&style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/aditsyntax)
+[![Codeforces Live Rank](https://img.shields.io/badge/dynamic/json?color=1F8ACB&label=Codeforces%20Rank&query=$.result[0].rank&url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3Daditsyntax&style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/aditsyntax)
+[![Codolio Live Profile](https://img.shields.io/badge/Codolio-aditsyntax%20(All%20Stats)-6C5CE7?style=for-the-badge&logo=codeforces&logoColor=white)](https://codolio.com/profile/aditsyntax)
 
 </div>
 
@@ -127,9 +127,9 @@
 [![Codolio](https://img.shields.io/badge/Codolio-6C5CE7?style=for-the-badge&logo=codeforces&logoColor=white)](https://codolio.com/profile/aditsyntax)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditsyntax)
 [![X/Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/aditsyntax)
-[![LeetCode](https://img.shields.io/badge/LeetCode-1850%2B%20(Knight)-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/aditsyntax)
-[![Codeforces](https://img.shields.io/badge/Codeforces-Pupil%20(1245)-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/aditsyntax)
-[![CodeChef](https://img.shields.io/badge/CodeChef-2%20Star%20(1551)-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/aditsyntax)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/aditsyntax)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/aditsyntax)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/aditsyntax)
 [![Email](https://img.shields.io/badge/Email-aditsyntax@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aditsyntax@gmail.com)
 
 </div>
