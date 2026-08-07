@@ -23,24 +23,23 @@
 
 ---
 
-## 🚀 Live Dynamic Competitive Programming Stats
+## 🚀 Live Competitive Programming & Codolio Stats
 
 <div align="center">
 
 <a href="https://leetcode.com/aditsyntax">
-  <img src="https://leetcard.jacoblin.cool/aditsyntax?theme=dark&font=Baloo%202&ext=contest" height="200" alt="LeetCode Live Dynamic Stats Card" />
+  <img src="https://leetcard.jacoblin.cool/aditsyntax?theme=dark&font=Baloo%202&ext=contest" height="200" alt="LeetCode Live Stats Card" />
 </a>
 <a href="https://codeforces.com/profile/aditsyntax">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=aditsyntax&theme=dark" height="200" alt="Codeforces Live Dynamic Stats Card" />
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=aditsyntax&theme=dark" height="200" alt="Codeforces Live Stats Card" />
 </a>
 
 <br/><br/>
 
-<!-- Dynamic Platform Badges -->
-[![LeetCode Rating](https://img.shields.io/badge/dynamic/json?color=FFA116&label=LeetCode%20Rating&query=$.userContestRanking.rating&url=https%3A%2F%2Falfa-leetcode-api.onrender.com%2Faditsyntax%2Fcontest&style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/aditsyntax)
+[![Codolio Portfolio](https://img.shields.io/badge/Codolio-All%20Platform%20Stats-6C5CE7?style=for-the-badge&logo=codeforces&logoColor=white)](https://codolio.com/profile/aditsyntax)
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/aditsyntax)
 [![Codeforces Rating](https://img.shields.io/badge/dynamic/json?color=1F8ACB&label=Codeforces%20Rating&query=$.result[0].rating&url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3Daditsyntax&style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/aditsyntax)
-[![CodeChef](https://img.shields.io/badge/CodeChef-2%20Star%20(1551)-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/aditsyntax)
-[![Codolio Profile](https://img.shields.io/badge/Codolio-aditsyntax%20(All%20Platforms)-6C5CE7?style=for-the-badge&logo=codeforces&logoColor=white)](https://codolio.com/profile/aditsyntax)
+[![CodeChef Profile](https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/aditsyntax)
 
 </div>
 
