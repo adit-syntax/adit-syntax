@@ -2,7 +2,7 @@
 
 # Hi there, I'm Aditya Singh 👋
 
-<img src="https://media.giphy.com/media/qgQUGGAC3P4Fky4h8w/giphy.gif" width="100%" height="300px" alt="Developer at Night Banner" />
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub-Bio/raw/main/gifs/Aesthetic.gif" width="100%" height="320px" alt="Developer at Night Banner" />
 
 ### 💻 *Full-Stack & AI Developer | Competitive Programmer*
 
@@ -22,23 +22,18 @@
 
 ---
 
-## 📊 Coding Profiles & Problem Solving Dashboard
+## 🚀 Competitive Programming & Coding Profiles
+
+- ⚔️ **Knight on LeetCode** (Rating: 1850+, Top 7.63%)
+- 💚 **Pupil on Codeforces** (Peak Rating: 1245)
+- ⭐ **2 Star on CodeChef** (Top Rating: 1551)
+- 🧠 **700+ Problems Solved** | **100+ Contests Participated**
+- 🎯 **GATE 2026 CS:** AIR 7514 (Score 500)
+- 💡 **Strong in:** Data Structures & Algorithms, Dynamic Programming, Graphs, C++
 
 <div align="center">
 
-| Platform | Title / Rank | Max Rating | Problems / Contests | Link |
-| :--- | :---: | :---: | :---: | :---: |
-| <img src="https://simpleicons.org/v13/leetcode.svg" width="20"/> **LeetCode** | ⚔️ **Knight** *(Top 7.6%)* | **1850+** | **500+** Solved | [aditsyntax](https://leetcode.com/aditsyntax) |
-| <img src="https://simpleicons.org/v13/codeforces.svg" width="20"/> **Codeforces** | 🟩 **Pupil** | **1245** | **100+** Contests | [aditsyntax](https://codeforces.com/profile/aditsyntax) |
-| <img src="https://simpleicons.org/v13/codechef.svg" width="20"/> **CodeChef** | ⭐⭐ **2 Star** | **1551** | Rated Contests | [aditsyntax](https://www.codechef.com/users/aditsyntax) |
-| 🎯 **GATE CS 2026** | **AIR 7514** | **Score: 500** | Qualified | — |
-
-<br/>
-
-[![LeetCode Rating](https://img.shields.io/badge/LeetCode-1850%2B%20(Knight)-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/aditsyntax)
-[![LeetCode Solved](https://img.shields.io/badge/LeetCode%20Solved-500%2B-00B8A3?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/aditsyntax)
-[![Codeforces](https://img.shields.io/badge/Codeforces-Pupil%20(1245)-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/aditsyntax)
-[![CodeChef](https://img.shields.io/badge/CodeChef-2%20Star%20(1551)-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/aditsyntax)
+<a href="https://codeforces.com/profile/aditsyntax"><img src="https://codeforces-readme-stats.vercel.app/api/card?username=aditsyntax&theme=dark" alt="Codeforces Stats" /></a>
 
 </div>
 
@@ -101,26 +96,6 @@
 ### ⚡ Automation & DevOps Tools
 - **[n8n Workflows](https://github.com/adit-syntax/n8n):** Automated API integrations and workflow automation triggers.
 - **[Rename All](https://github.com/adit-syntax/rename_all):** Batch file manipulation and batch renaming script utility.
-
----
-
-## 🎮 Play Tic-Tac-Toe Directly On My README!
-
-<div align="center">
-
-**Turn: You (❌) vs Bot (⭕)**
-
-Click any available **[ ⬜ ]** cell to place your move!
-
-| Top / Middle / Bottom | Left | Center | Right |
-| :---: | :---: | :---: | :---: |
-| **Top** | [ ⬜ ](https://github.com/adit-syntax/adit-syntax/issues/new?title=ttt%7C0%7C0&body=Just+click+%27Submit+new+issue%27+to+make+your+move.) | [ ❌ ](#) | [ ⬜ ](https://github.com/adit-syntax/adit-syntax/issues/new?title=ttt%7C0%7C2&body=Just+click+%27Submit+new+issue%27+to+make+your+move.) |
-| **Middle** | [ ⭕ ](#) | [ ❌ ](#) | [ ⬜ ](https://github.com/adit-syntax/adit-syntax/issues/new?title=ttt%7C1%7C2&body=Just+click+%27Submit+new+issue%27+to+make+your+move.) |
-| **Bottom** | [ ⬜ ](https://github.com/adit-syntax/adit-syntax/issues/new?title=ttt%7C2%7C0&body=Just+click+%27Submit+new+issue%27+to+make+your+move.) | [ ⭕ ](#) | [ ⬜ ](https://github.com/adit-syntax/adit-syntax/issues/new?title=ttt%7C2%7C2&body=Just+click+%27Submit+new+issue%27+to+make+your+move.) |
-
-*Clicking a cell opens a pre-filled issue — just hit **Submit new issue** and the automated workflow updates the board instantly on this README!*
-
-</div>
 
 ---
 
