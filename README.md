@@ -36,11 +36,10 @@
 
 <br/><br/>
 
-<!-- Dynamic JSON API Badges (Live fetching numbers from platform endpoints) -->
-[![LeetCode Solved](https://img.shields.io/badge/dynamic/json?color=FFA116&label=LeetCode%20Solved&query=$.solvedProblem&url=https%3A%2F%2Falfa-leetcode-api.onrender.com%2Faditsyntax%2Fsolved&style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/aditsyntax)
+<!-- Dynamic Platform Badges -->
+[![LeetCode Rating](https://img.shields.io/badge/dynamic/json?color=FFA116&label=LeetCode%20Rating&query=$.userContestRanking.rating&url=https%3A%2F%2Falfa-leetcode-api.onrender.com%2Faditsyntax%2Fcontest&style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/aditsyntax)
 [![Codeforces Rating](https://img.shields.io/badge/dynamic/json?color=1F8ACB&label=Codeforces%20Rating&query=$.result[0].rating&url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3Daditsyntax&style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/aditsyntax)
-[![CodeChef Rating](https://img.shields.io/badge/dynamic/json?color=5B4638&label=CodeChef%20Rating&query=$.currentRating&url=https%3A%2F%2Fcodechef-api.vercel.app%2Fhandle%2Faditsyntax&style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/aditsyntax)
-[![CodeChef Stars](https://img.shields.io/badge/dynamic/json?color=5B4638&label=CodeChef%20Stars&query=$.stars&url=https%3A%2F%2Fcodechef-api.vercel.app%2Fhandle%2Faditsyntax&style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/aditsyntax)
+[![CodeChef](https://img.shields.io/badge/CodeChef-2%20Star%20(1551)-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/aditsyntax)
 [![Codolio Profile](https://img.shields.io/badge/Codolio-aditsyntax%20(All%20Platforms)-6C5CE7?style=for-the-badge&logo=codeforces&logoColor=white)](https://codolio.com/profile/aditsyntax)
 
 </div>
