@@ -94,7 +94,7 @@
 - **[EcoTwin](https://github.com/adit-syntax/EcoTwin):** Environmental tracking and climate risk assessment application.
 
 ### 🧩 Algorithmic Projects & Interactive Games
-- **[Space Invaders Game](https://github.com/adit-syntax/space-invaders-game):** Classic arcade game reconstructed in C++/JS.
+- **[Space Invaders Game](https://github.com/adit-syntax/space-invaders-game):** Classic arcade game built using Python(Pygame).
 - **[N-Queen Explorer](https://github.com/adit-syntax/N-Queen-Explorer):** Interactive visualization tool for backtrack solving the N-Queens problem.
 - **[Sudoku Solver](https://github.com/adit-syntax/sudoku) & [Rat in a Maze](https://github.com/adit-syntax/ratmaze):** Backtracking algorithm visualizers.
 - **[Tic-Tac-Toe](https://github.com/adit-syntax/tic-tac-toe):** Browser-based turn game.
@@ -136,7 +136,7 @@
 
 ---
 
-## ✨ Daily Inspiration & Words of Wisdom
+## ✨Words of Wisdom
 
 <div align="center">
 
