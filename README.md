@@ -83,23 +83,29 @@
 ## 📁 Projects Highlights
 
 ### 🤖 AI, Agentic Platforms & NLP
+
 - **[VyuhaAI](https://github.com/adit-syntax/VyuhaAI):** Multi-Agent AI Platform built with React, Node.js, LangGraph, RAG, and Docker on AWS. Coordinating 5+ specialized agents with vector search grounding.
+- **[ResolvAI](https://github.com/adit-syntax/ResolvAI):** Autonomous AI-native helpdesk and incident orchestration platform powered by ReAct agents and hybrid RAG.
 - **[InterQ](https://github.com/adit-syntax/InterQ):** AI-driven interview platform using Google Gemini to analyze job descriptions & resumes, generating study roadmaps and ATS resume exports.
-- **[Swar-A / Voice Email Assistant](https://github.com/adit-syntax/Swar-A_Voice_Based_Email_and_Messaging_Assistant):** Voice-enabled messaging assistant for hands-free email management with biometric auth.
+- **[Vaani / Voice Email Assistant](https://github.com/adit-syntax/Vaani):** Voice-enabled messaging assistant for hands-free email management with biometric auth.
 - **[AI Document Retrieval System](https://github.com/adit-syntax/AI-Powered-Document-Retrieval-System-with-Docling-and-Granite):** RAG platform leveraging IBM Granite & Docling for document retrieval.
 
 ### 🌐 Full-Stack Web Applications
+
+- **[Heuristiq](https://github.com/adit-syntax/Heuristiq):** An offline-first engineering workstation combining curated DSA problem sheets, an in-browser code runner, algorithm visualizers, and a vector whiteboard.
 - **[Pixora](https://github.com/adit-syntax/Pixora):** Full-stack social platform featuring Socket.io real-time 1-on-1 messaging, stories, and push notifications.
 - **[Restaurant Web](https://github.com/adit-syntax/restaurant-web):** Responsive online dining web platform with digital reservation workflows.
 - **[EcoTwin](https://github.com/adit-syntax/EcoTwin):** Environmental tracking and climate risk assessment application.
 
 ### 🧩 Algorithmic Projects & Interactive Games
+
 - **[Space Invaders Game](https://github.com/adit-syntax/space-invaders-game):** Classic arcade game built using Python(Pygame).
 - **[N-Queen Explorer](https://github.com/adit-syntax/N-Queen-Explorer):** Interactive visualization tool for backtrack solving the N-Queens problem.
 - **[Sudoku Solver](https://github.com/adit-syntax/sudoku) & [Rat in a Maze](https://github.com/adit-syntax/ratmaze):** Backtracking algorithm visualizers.
 - **[Tic-Tac-Toe](https://github.com/adit-syntax/tic-tac-toe):** Browser-based turn game.
 
 ### ⚡ Automation & DevOps Tools
+
 - **[n8n Workflows](https://github.com/adit-syntax/n8n):** Automated API integrations and workflow automation triggers.
 - **[Rename All](https://github.com/adit-syntax/rename_all):** Batch file manipulation and batch renaming script utility.
 
